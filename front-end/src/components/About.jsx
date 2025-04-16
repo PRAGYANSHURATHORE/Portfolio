@@ -55,11 +55,11 @@ function About() {
                 management.
               </li>
             </ul>
-            <a href="/pragyanshuresume.pdf" download="Pragyanshu_Resume.pdf">
+            <a href="/Pragyanshu_Rathore_Resume.pdf" download="Pragyanshu_Resume.pdf">
               Download CV
             </a>
             <a
-              href="/pragyanshuresume.pdf"
+              href="/Pragyanshu_Rathore_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
